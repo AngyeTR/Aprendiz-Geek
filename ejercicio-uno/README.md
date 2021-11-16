@@ -21,7 +21,7 @@ Se siguen la indicaciones dadas.
 4. Estando en la carpeta ejercicio-uno se  un archivo con el nombre **index.html** usando el comando _touch_
 5. Con el comado _code ._ se abre **Visual Studio Code**, allí se realiza más adelante el código en HTML.
 <br>
-![Uploading Captura.PNG…](Ejercicio 1 parte 1)<br>
+![https://github.com/AngyeTR/Aprendiz-Geek/blob/main/ejercicio-uno/images/Captura.PNG](Ejercicio 1 parte 1)<br>
 6. Con el comando _mkdir_ se crea una nueva carpeta llamada "**images**" que guarda las capturas de pantalla correspondientes al ejercicio.
 7. Con el comando _touch_ se crea el archivo **README.md**
 8. Ahora, en **Visual Studio Code** podemos abrir el archivo **Index.html** para redactar el código correspondiente. <br>
