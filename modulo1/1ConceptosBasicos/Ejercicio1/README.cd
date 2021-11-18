@@ -1,0 +1,19 @@
+# EJERCICIO 1
+## MODULO 1 CONCEPTOS BÁSICOS
+
+Para realizar la entrega de esta actividad se realizan los siguientes pasos:
+
+- [x] Crear un Issues llamado Entrega-Modulo-1-01-Conceptos-Básicos-Tarea-01-Ejercicio-1
+- [x] Al Issues adicionar un pantallazo con el enunciado de la tarea
+- [x] Luego debes agregar la descripción de los pasos que ejecutaste para dar solución a la tarea y adjuntar las imágenes de evidencia.
+- [x] Subir el proyecto a GitHub y enviar la url del repositorio
+- [x] Crear un GitHub Page y enviar la url del despliegue
+
+## DESARROLLO
+
+Para realizar esta actividad, se crean a través de GitBash todos los directorios y archivos necesarios. 
+![Git bash comandos usados](https://github.com/AngyeTR/Aprendiz-Geek/blob/main/modulo1/1ConceptosBasicos/Ejercicio1/images/Captura.PNG?raw=true)
+
+Luego, en VSCODE se generan los archivos *index.html* y *main.css* disponibles en el repositorio.
+
+Finalmente, se sube el proyecto a GitHub y Gitpages. 
